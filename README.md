@@ -81,10 +81,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/dotnet.png"></code><br>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/spring.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/aspcore.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/dotnet.png"></code><br>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/spring.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/jenkins.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/amazon-web-services.png"></code>
