@@ -1,16 +1,184 @@
-### Hi there 👋
+<!--### Hi there 👋, I'm Joey! -->
 
-<!--
-**galaxyreal/galaxyreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
+
+
+
+**dreambold/dreambold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 📫 How to reach me: <a href="https://twitter.com/joeyra0723">@joeyra0723<img align="left" alt="Joey Ramsey | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/></a> 
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=dreambold&theme=highcontrast&show_icons=true&count_private=true)
+
+
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dreambold&layout=compact)
+
+## My Repos
+
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=dreambold&repo=Megapay&show_owner=true)](https://github.com/dreambold/Megapay)
+
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=dreambold&repo=Multi-Vendor-System&show_owner=true)](https://github.com/dreambold/Multi-Vendor-System)
+
+[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=dreambold&repo=Chat-App&show_owner=true)](https://github.com/dreambold/Chat-App)
+
+
+
+
+
+**Languages and Tools:**  
+
+<!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
+
+&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C#](https://img.shields.io/badge/C%23-C--sharp-blue?style=flat-square&logo=appveyor)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)  
+&nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
+&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
+&nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=cicd)
+  ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=devops)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)  
+&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+
+
+
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/rust.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/laravel.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/c_sharp.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold<!--### Hi there 👋, I'm Joey! 
+
+<br />
+<br />
+
+
+
+
+**dreambold/dreambold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 📫 How to reach me: <a href="https://twitter.com/joeyra0723">@joeyra0723<img align="left" alt="Joey Ramsey | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/></a> 
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=dreambold&theme=highcontrast&show_icons=true&count_private=true)
+
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dreambold&layout=compact)
+
+## My Repos
+
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=dreambold&repo=Megapay&show_owner=true)](https://github.com/dreambold/Megapay)
+
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=dreambold&repo=Multi-Vendor-System&show_owner=true)](https://github.com/dreambold/Multi-Vendor-System)
+
+[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=dreambold&repo=Chat-App&show_owner=true)](https://github.com/dreambold/Chat-App)
+
+
+
+
+
+**Languages and Tools:**  
+
+<h3> 🛠 &nbsp;Tech Stack</h3> 
+
+&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C#](https://img.shields.io/badge/C%23-C--sharp-blue?style=flat-square&logo=appveyor)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)  
+&nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
+&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
+&nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=cicd)
+  ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=devops)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)  
+&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+
+
+
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/rust.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/laravel.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/c_sharp.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/aspcore.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/dotnet.png"></code><br>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/spring.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/aspcore.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/dotnet.png"></code><br>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/spring.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/jenkins.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/amazon-web-services.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/visual-studio-code.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/vim.png"></code> 
