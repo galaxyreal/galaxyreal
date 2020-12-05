@@ -1,9 +1,8 @@
-<!--### Hi there 👋, I'm Joey! -->
+<!--### Hi there 👋, I'm Jason! -->
 
 <br />
 <br />
 
-**galaxyreal/galaxyreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -34,11 +33,12 @@
 <h3> 🛠 &nbsp;Tech Stack</h3> 
 
 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C#](https://img.shields.io/badge/C%23-C--sharp-blue?style=flat-square&logo=appveyor)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)  
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=R&logoColor=276DC3)  
 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
