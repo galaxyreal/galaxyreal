@@ -35,14 +35,12 @@
 &nbsp;
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C#](https://img.shields.io/badge/C%23-C--sharp-blue?style=flat-square&logo=appveyor)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)  
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=R&logoColor=276DC3)  
 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
@@ -64,25 +62,9 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 
-- 🖥 &nbsp;
+-  &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 
-
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/rust.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/laravel.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/c_sharp.png"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/aspcore.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/dotnet.png"></code><br>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/spring.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/jenkins.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/amazon-web-services.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/vim.png"></code> 
