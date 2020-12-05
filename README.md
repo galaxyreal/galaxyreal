@@ -6,7 +6,7 @@
 
 
 
-**dreambold/dreambold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**galaxyreal/galaxyreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,7 +15,7 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 📫 How to reach me: <a href="https://twitter.com/joeyra0723">@joeyra0723<img align="left" alt="Joey Ramsey | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/></a> 
+- 📫 How to reach me: <a href="https://twitter.com/joeyra0723">@joeyra0723<img align="left" alt="|Jason West | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/></a> 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dreambold&theme=highcontrast&show_icons=true&count_private=true)
@@ -92,7 +92,7 @@
 
 
 
-**dreambold/dreambold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**galaxyreal/galaxyreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -101,7 +101,7 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 📫 How to reach me: <a href="https://twitter.com/joeyra0723">@joeyra0723<img align="left" alt="Joey Ramsey | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/></a> 
+- 📫 How to reach me: <a href=""><img align="left" alt="Jason West | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/></a> 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dreambold&theme=highcontrast&show_icons=true&count_private=true)
