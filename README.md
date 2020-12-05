@@ -21,11 +21,9 @@
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=dreambold&repo=Megapay&show_owner=true)](https://github.com/dreambold/Megapay)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=galaxyreal&repo=fitness&show_owner=true)](https://github.com/galaxyreal/fitness)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=dreambold&repo=Multi-Vendor-System&show_owner=true)](https://github.com/dreambold/Multi-Vendor-System)
-
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=dreambold&repo=Chat-App&show_owner=true)](https://github.com/dreambold/Chat-App)
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=galaxyreal&repo=GraphQL-Simple-App&show_owner=true)](https://github.com/galaxyreal/GraphQL-Simple-App)
 
 
 
