@@ -21,7 +21,7 @@
 
 [![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=galaxyreal&repo=GraphQL-Simple-App&show_owner=true)](https://github.com/galaxyreal/GraphQL-Simple-App)
 
-
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=galaxyreal&repo=FaceSwapFree&show_owner=true)](https://github.com/galaxyreal/FaceSwapFree)
 
 
 
