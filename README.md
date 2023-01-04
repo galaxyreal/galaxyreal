@@ -10,14 +10,14 @@
 - 💬 Ask me about mobile app development.
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=galaxyreal&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=galaxyreal&hide=XML,Rich&theme=highcontrast&show_icons=true&count_private=true)
 
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=galaxyreal&repo=fitness&show_owner=true)](https://github.com/galaxyreal/fitness)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=galaxyreal&hide=XML,Rich&repo=fitness&show_owner=true)](https://github.com/galaxyreal/fitness)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=galaxyreal&repo=GraphQL-Simple-App&show_owner=true)](https://github.com/galaxyreal/GraphQL-Simple-App)
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=galaxyreal&hide=XML,Rich&repo=GraphQL-Simple-App&show_owner=true)](https://github.com/galaxyreal/GraphQL-Simple-App)
 
 
 
