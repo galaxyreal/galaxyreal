@@ -1,50 +1,148 @@
-<!--### Hi there 👋, I'm Jason! -->
+<h1>Hello world, I'm Galaxy Real <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<br />
-<br />
+<!-- ![Profile views](https://) -->
 
+## 🧐 More About Me
 
-- 🔭 I’m currently working on Android/iOS App Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate on big projects.
-- 💬 Ask me about mobile app development.
+<div style="display: flex;flex-wrap: wrap;">
+  <div style="flex-grow: 1;">
+    <li>🔭 &nbsp; I’m currently working as a fullstack developer</li>
+    <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/galaxyreal?tab=repositories">Github</a></li>
+    <li>💼 &nbsp; Any freelance work? <a href="mailto:mobiledev213@gmail.com">Reach me via email</a></li>
+    <li>💬 &nbsp; Ask me about anything tech related, I am happy to help</li>
+  </div>
+  <div style="flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/novatorem.svg" style="max-width: 100%;">
+  </div>
+</div>
 
+---
 
-**Languages and Tools:**  
+## 🔨 Skill sets
 
-<h3> 🛠 &nbsp;Tech Stack</h3> 
+### Libraries and Frameworks
 
-&nbsp;
-  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=276DC3)  
-&nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
-&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
-&nbsp;
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=cicd)
-  ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=devops)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)  
-&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-&nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/frameworks/react-native.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a>
+   <a href="#">
+    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
+### Languages
+
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/languages/dart.svg" alt="dart_colour" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/languages/swift.svg" alt="swift" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
+---
+
+### Tools
+
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/tools/xcode.svg" alt="xcode" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/tools/android_studio.svg" alt="android_studio_colour" style="vertical-align:top; margin:6px 4px">
+  </a>
+    <a href="#">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/tools/jetbrains_datagrip.svg" alt="jetbrains_datagrip" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/tools/jetbrains_goland.svg" alt="jetbrains_goland" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/tools/jetbrains_webstorm.svg" alt="jetbrains webstorm" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
+---
+
+### Services
+
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
+
+---
+
+## 📊 Github Stats
+
+![Metrics](/github-metrics.svg)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 
