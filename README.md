@@ -1,4 +1,4 @@
-<h1>Hello world, I'm Galaxy Real <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hello world! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <!-- ![Profile views](https://) -->
 
@@ -8,7 +8,7 @@
   <div style="flex-grow: 1;">
     <li>🔭 &nbsp; I’m currently working as a fullstack developer</li>
     <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/galaxyreal?tab=repositories">Github</a></li>
-    <li>💼 &nbsp; Any freelance work? <a href="mailto:mobiledev213@gmail.com">Reach me via email</a></li>
+    <li>💼 &nbsp; Any freelance work? <a href="mailto:samuellee.dev@gmail.com">Reach me via email</a></li>
     <li>💬 &nbsp; Ask me about anything tech related, I am happy to help</li>
   </div>
   <div style="flex-grow: 1;">
